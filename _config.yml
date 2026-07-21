@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
-
+projects:
+  malaria:
+    title: "Lutte Antivectorielle du Paludisme"
+    url: "https://duplexfossi.github.io/Malaria/"
+    repo: "https://github.com/Duplexfossi/Malaria"
