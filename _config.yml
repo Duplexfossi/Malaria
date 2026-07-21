@@ -1,4 +1,2 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
-header_pages:
-  - index.md
