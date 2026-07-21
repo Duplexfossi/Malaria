@@ -1,3 +1,6 @@
+# 🦟 Malaria Vector Control Strategy & Geospatial Targeting
+---
+
 ## 📌 Présentation du Projet
 
 Dans les régions tropicales, la transmission du paludisme présente une grande hétérogénéité spatiale influencée par des variables environnementales (altitude, précipitations, température, humidité) et climatiques. Face à des budgets de santé publique limités, les campagnes de prévention massives manquent souvent de ciblage géographique précis.
