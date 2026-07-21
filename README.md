@@ -37,7 +37,21 @@ La modélisation s'appuie sur une démarche rigoureuse d'analyse de données d'o
 
 ## 📊 Résultats Clés & Impact Décisionnel
 
-* **Facteurs Déterminants :** L'altitude et la température moyenne de la saison des pluies sont ressorties comme les prédicteurs les plus significatifs (p < 0.05) de la densité parasitaire.
-* **Ciblage Stratégique :** L'analyse a permis de définir une note stratégique de recommandation.
+### 📈 Constat Statistique (Modélisation GLM/MCO)
+* **Échantillon & Validation :** Analyse menée sur **237 observations complètes**. Les hypothèses de Gauss-Markov ont été validées (résidus normaux via Shapiro-Wilk, homoscédasticité), garantissant la fiabilité des estimations.
+* **Sélection de variables par AIC :** Réduction d'un modèle complexe à 6 variables (incluant température, humidité, précipitations et biodiversité aviaire) vers un **modèle parcimonieux à 2 déterminants robustes** :
+  * ⛰️ **Altitude du lieu de résidence**
+  * 💧 **Distance au point d'eau stagnante le plus proche**
+* **Pouvoir Prédictif :** Ces 2 variables expliquent à elles seules **88,2 % de la variance** de la densité parasitaire (R^2 = 0,882), éliminant la multicolinéarité sans perte de précision prédictive.
+
+---
+
+### 💡 Recommandations Opérationnelles (Santé Publique)
+1. **Ciblage géographique simplifié :** Prioriser l'allocation des **MILDA** et les campagnes de **pulvérisation intra-domiciliaire** dans les zones cumulant *basse altitude* et *proximité immédiate des points d'eau stagnante*.
+2. **Optimisation des coûts :** Exploiter les Modèles Numériques de Terrain (MNT) existants pour la cartographie au lieu d'investir dans des stations météo locales coûteuses (l'apport de la température/humidité étant redondant une fois l'altitude prise en compte).
+3. **Assainissement ciblé :** Concentrer les actions anti-larvaires (drainage, larvicides) prioritairement sur les points d'eau en zones de basse altitude.
+
+---
+
 
 
