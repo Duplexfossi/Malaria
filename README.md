@@ -40,18 +40,4 @@ La modélisation s'appuie sur une démarche rigoureuse d'analyse de données d'o
 * **Facteurs Déterminants :** L'altitude et la température moyenne de la saison des pluies sont ressorties comme les prédicteurs les plus significatifs ($p < 0.05$) de la densité parasitaire.
 * **Ciblage Stratégique :** L'analyse a permis de définir une note stratégique recommandant une priorisation des interventions dans les zones situées sous le seuil critique identifié, optimisant ainsi l'impact sanitaire par franc investi.
 
----
 
-## 📂 Structure du Dépôt
-
-```text
-.
-├── data/                  # Données brutes et nettoyées (anonymisées)
-├── notebooks/             # Notebooks de démonstration et d'exploration
-│   └── 01_malaria_analysis.ipynb
-├── src/                   # Code source principal (fonctions, prétraitement, modèles)
-│   ├── data_processing.py
-│   └── modeling.py
-├── reports/               # Synthèse des résultats et notes stratégiques
-├── README.md              # Présentation du projet
-└── requirements.txt       # Dépendances du projet
