@@ -37,7 +37,7 @@ La modélisation s'appuie sur une démarche rigoureuse d'analyse de données d'o
 
 ## 📊 Résultats Clés & Impact Décisionnel
 
-* **Facteurs Déterminants :** L'altitude et la température moyenne de la saison des pluies sont ressorties comme les prédicteurs les plus significatifs ($p < 0.05$) de la densité parasitaire.
-* **Ciblage Stratégique :** L'analyse a permis de définir une note stratégique recommandant une priorisation des interventions dans les zones situées sous le seuil critique identifié, optimisant ainsi l'impact sanitaire par franc investi.
+* **Facteurs Déterminants :** L'altitude et la température moyenne de la saison des pluies sont ressorties comme les prédicteurs les plus significatifs (p < 0.05) de la densité parasitaire.
+* **Ciblage Stratégique :** L'analyse a permis de définir une note stratégique de recommandation.
 
 
